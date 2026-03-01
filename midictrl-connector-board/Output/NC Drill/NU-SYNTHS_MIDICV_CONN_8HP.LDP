@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Git\nu-synth\NU-SYNTHS_MIDICV_CONN\NU-SYNTHS_MIDICV_CONN_8HP.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nu-synths_midicv_conn_8hp-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nu-synths_midicv_conn_8hp-slotholes.txt|DrillLayers=gtl,gbl

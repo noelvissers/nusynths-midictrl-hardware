@@ -1,0 +1,8 @@
+Record=DiagramHierarchy|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\NU-SYNTHS_MIDICV\NU-SYNTHS_MIDICV.PrjPcb
+Record=SubProject|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|ProjectPath=..\NU-SYNTHS_MIDICV\NU-SYNTHS_MIDICV.PrjPcb
+Record=DiagramHierarchy|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|Kind=Multi-board Schematic Module|Designator=4|Source=..\NU-SYNTHS_MIDICV_CONN\NU-SYNTHS_MIDICV_CONN.PrjPcb
+Record=SubProject|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|ProjectPath=..\NU-SYNTHS_MIDICV_CONN\NU-SYNTHS_MIDICV_CONN.PrjPcb
+Record=DiagramHierarchy|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\NU-SYNTHS_MIDICV_CONN\NU-SYNTHS_MIDICV_CONN.PrjPcb
+Record=SubProject|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|ProjectPath=..\NU-SYNTHS_MIDICV_CONN\NU-SYNTHS_MIDICV_CONN.PrjPcb
+Record=DiagramHierarchy|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\USB type C Breakout\USB type C Breakout.PrjPcb
+Record=SubProject|SourceDocument=NU-SYNTHS_MIDICV_ASSY.MbsDoc|ProjectPath=..\USB type C Breakout\USB type C Breakout.PrjPcb
