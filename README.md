@@ -2,6 +2,8 @@
 
 Hardware design of the NU Synths 'MIDICTRL' eurorack module.
 
+![nusynths-midictrl-thumbnail](Thumbnail.png){width=500}
+
 For firmware see [nusynths-midictrl](https://github.com/noelvissers/nusynths-midictrl) repository.
 
 ## Contents
